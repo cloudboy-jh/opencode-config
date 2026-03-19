@@ -29,8 +29,6 @@
 ## Stack Defaults
 - **Languages:** Go for CLIs, TUIs, daemons, and anything terminal-native. TypeScript for web, Cloudflare Workers, and frontend. Don't ask - infer from context.
 - **Runtime:** Bun over Node when in TS projects.
-- **Infra:** GCP-first (Cloud Workflows, Firestore, Cloud Functions, Cloud Storage). Cloudflare for edge/frontend.
-- **TUI:** Bubble Tea is the default. Don't suggest alternatives.
 - **Agent layer:** Opencode. Not Claude Code, not Cursor.
 
 ## Dependency Policy

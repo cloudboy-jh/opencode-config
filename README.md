@@ -1,0 +1,1 @@
+## my opencode global config
